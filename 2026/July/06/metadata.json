@@ -1,0 +1,10 @@
+{
+  "title": "Number of Paths with Max Score",
+  "problemNumber": 1301,
+  "difficulty": "HARD",
+  "language": "Java",
+  "date": "2026-07-06",
+  "timeComplexity": "O(n^2)",
+  "spaceComplexity": "O(n^2)",
+  "tags": ["Array", "Dynamic Programming", "Matrix"]
+}
