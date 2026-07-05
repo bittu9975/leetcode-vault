@@ -1,10 +1,10 @@
 {
-  "title": "Add Two Numbers",
-  "problemNumber": 2,
+  "title": "Longest Substring Without Repeating Characters",
+  "problemNumber": 3,
   "difficulty": "MEDIUM",
   "language": "Java",
   "date": "2026-07-05",
-  "timeComplexity": "O(max(m, n))",
-  "spaceComplexity": "O(max(m, n))",
-  "tags": ["Linked List", "Math", "Recursion"]
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(min(n, m))",
+  "tags": ["String", "Hash Table", "Sliding Window"]
 }
