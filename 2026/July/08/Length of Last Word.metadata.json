@@ -1,0 +1,10 @@
+{
+  "title": "Length of Last Word",
+  "problemNumber": 58,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-08",
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["String"]
+}
