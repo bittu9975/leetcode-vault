@@ -1,0 +1,10 @@
+{
+  "title": "Search Insert Position",
+  "problemNumber": 35,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-08",
+  "timeComplexity": "O(log n)",
+  "spaceComplexity": "O(1)",
+  "tags": ["Array", "Binary Search"]
+}
