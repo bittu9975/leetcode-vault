@@ -1,10 +1,10 @@
 {
-  "title": "Palindrome Number",
-  "problemNumber": 9,
+  "title": "Roman to Integer",
+  "problemNumber": 13,
   "difficulty": "EASY",
   "language": "Java",
   "date": "2026-07-07",
-  "timeComplexity": "O(log n)",
+  "timeComplexity": "O(n)",
   "spaceComplexity": "O(1)",
-  "tags": ["Math"]
+  "tags": ["Hash Table", "String", "Math"]
 }
