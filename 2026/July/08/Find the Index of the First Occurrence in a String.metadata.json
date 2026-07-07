@@ -1,0 +1,10 @@
+{
+  "title": "Find the Index of the First Occurrence in a String",
+  "problemNumber": 28,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-08",
+  "timeComplexity": "O(n*m)",
+  "spaceComplexity": "O(1)",
+  "tags": ["String", "String Matching", "Two Pointers"]
+}
