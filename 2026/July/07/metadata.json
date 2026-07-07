@@ -1,10 +1,10 @@
 {
-  "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
-  "problemNumber": 3754,
+  "title": "Palindrome Number",
+  "problemNumber": 9,
   "difficulty": "EASY",
   "language": "Java",
   "date": "2026-07-07",
   "timeComplexity": "O(log n)",
-  "spaceComplexity": "O(log n)",
+  "spaceComplexity": "O(1)",
   "tags": ["Math"]
 }
