@@ -1,0 +1,10 @@
+{
+  "title": "Remove Element",
+  "problemNumber": 27,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-08",
+  "timeComplexity": "O(n log n)",
+  "spaceComplexity": "O(1)",
+  "tags": ["Array", "Two Pointers"]
+}
