@@ -1,0 +1,10 @@
+{
+  "title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+  "problemNumber": 3756,
+  "difficulty": "MEDIUM",
+  "language": "Java",
+  "date": "2026-07-09",
+  "timeComplexity": "O(n + q log n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["Math", "String", "Prefix Sum"]
+}
