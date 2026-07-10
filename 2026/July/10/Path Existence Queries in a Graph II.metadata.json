@@ -1,0 +1,10 @@
+{
+  "title": "Path Existence Queries in a Graph II",
+  "problemNumber": 3534,
+  "difficulty": "HARD",
+  "language": "Java",
+  "date": "2026-07-10",
+  "timeComplexity": "O(n log n + q log n)",
+  "spaceComplexity": "O(n + q)",
+  "tags": ["Dynamic Programming", "Graph Theory", "Array", "Two Pointers", "Binary Search", "Sorting", "Greedy", "Bit Manipulation"]
+}
