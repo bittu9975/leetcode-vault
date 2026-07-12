@@ -1,0 +1,10 @@
+{
+  "title": "Rank Transform of an Array",
+  "problemNumber": 1331,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-12",
+  "timeComplexity": "O(n log n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["Hash Table", "Array", "Sorting"]
+}
