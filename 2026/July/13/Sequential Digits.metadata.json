@@ -1,0 +1,10 @@
+{
+  "title": "Sequential Digits",
+  "problemNumber": 1291,
+  "difficulty": "MEDIUM",
+  "language": "Java",
+  "date": "2026-07-13",
+  "timeComplexity": "O(n^2 log n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["Enumeration"]
+}
