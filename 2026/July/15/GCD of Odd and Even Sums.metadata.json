@@ -1,0 +1,10 @@
+{
+  "title": "GCD of Odd and Even Sums",
+  "problemNumber": 3658,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-15",
+  "timeComplexity": "O(log min(a, b))",
+  "spaceComplexity": "O(1)",
+  "tags": ["Number Theory", "Math"]
+}
