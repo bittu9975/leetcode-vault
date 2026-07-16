@@ -1,0 +1,10 @@
+{
+  "title": "Sum of GCD of Formed Pairs",
+  "problemNumber": 3867,
+  "difficulty": "MEDIUM",
+  "language": "Java",
+  "date": "2026-07-16",
+  "timeComplexity": "O(n log n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["Two Pointers", "Sorting", "Number Theory", "Simulation", "Array", "Math"]
+}
