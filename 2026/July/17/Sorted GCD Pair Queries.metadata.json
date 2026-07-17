@@ -1,0 +1,10 @@
+{
+  "title": "Sorted GCD Pair Queries",
+  "problemNumber": 3312,
+  "difficulty": "HARD",
+  "language": "Java",
+  "date": "2026-07-17",
+  "timeComplexity": "O(n log n + n^2 + q log n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["Array", "Number Theory", "Math", "Prefix Sum", "Combinatorics", "Hash Table", "Binary Search", "Counting"]
+}
