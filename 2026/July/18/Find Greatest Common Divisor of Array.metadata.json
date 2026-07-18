@@ -1,0 +1,10 @@
+{
+  "title": "Find Greatest Common Divisor of Array",
+  "problemNumber": 1979,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-18",
+  "timeComplexity": "O(n + log(min))",
+  "spaceComplexity": "O(1)",
+  "tags": ["Array", "Math", "Number Theory"]
+}
