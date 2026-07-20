@@ -1,0 +1,10 @@
+{
+  "title": "Shift 2D Grid",
+  "problemNumber": 1260,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-20",
+  "timeComplexity": "O(m * n)",
+  "spaceComplexity": "O(m * n)",
+  "tags": ["Array", "Matrix", "Simulation"]
+}
