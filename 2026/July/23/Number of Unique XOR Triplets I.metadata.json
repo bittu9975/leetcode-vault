@@ -1,0 +1,10 @@
+{
+  "title": "Number of Unique XOR Triplets I",
+  "problemNumber": 3513,
+  "difficulty": "MEDIUM",
+  "language": "Java",
+  "date": "2026-07-23",
+  "timeComplexity": "O(1)",
+  "spaceComplexity": "O(1)",
+  "tags": ["Bit Manipulation", "Array", "Math"]
+}
