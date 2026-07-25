@@ -44,7 +44,18 @@ The goal isn't simply to solve problems—it's to understand the underlying patt
 
 <!--START_SECTION:leetcode_stats-->
 
-_Stats will appear here after the first workflow run._
+**LeetCode Profile:** [BiTTu__07](https://leetcode.com/u/BiTTu__07/)
+
+| Category | Solved | Total |
+|----------|-------:|------:|
+| Total | 307 | 3999 |
+| Easy | 142 | 955 |
+| Medium | 140 | 2089 |
+| Hard | 25 | 955 |
+
+**Global Ranking:** 468,325
+
+_Last updated: 2026-07-25 18:26 UTC_
 
 <!--END_SECTION:leetcode_stats-->
 
