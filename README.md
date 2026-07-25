@@ -38,6 +38,18 @@ The goal isn't simply to solve problems—it's to understand the underlying patt
 
 ---
 
+## Live LeetCode Stats
+
+> This section updates automatically every day via GitHub Actions — no manual edits needed.
+
+<!--START_SECTION:leetcode_stats-->
+
+_Stats will appear here after the first workflow run._
+
+<!--END_SECTION:leetcode_stats-->
+
+---
+
 ## Tech Stack
 
 | Technology | Usage |
@@ -46,6 +58,7 @@ The goal isn't simply to solve problems—it's to understand the underlying patt
 | Maven | Project Management |
 | Git | Version Control |
 | GitHub | Repository Hosting |
+| GitHub Actions | Automated README updates |
 | LeetCode | Coding Practice Platform |
 
 ---
@@ -54,6 +67,13 @@ The goal isn't simply to solve problems—it's to understand the underlying patt
 
 ```text
 leetcode-vault/
+│
+├── .github/
+│   └── workflows/
+│       └── update-readme.yml
+│
+├── scripts/
+│   └── update_readme.py
 │
 ├── Daily-Challenges/
 │
@@ -157,31 +177,16 @@ Some of the commonly used patterns include:
 
 ## Problem Solving Philosophy
 
-For every problem, I try to follow the following approach:
+For every problem, I try to follow this approach:
 
 1. Understand the problem statement thoroughly.
 2. Identify edge cases.
 3. Derive the brute-force solution.
 4. Optimize the approach.
-5. Analyse the time and space complexity.
+5. Analyze the time and space complexity.
 6. Write clean and readable code.
 7. Learn the underlying DSA pattern.
 8. Revise difficult problems periodically.
-
----
-
-## Progress Tracker
-
-> These numbers can be updated periodically.
-
-| Category | Progress |
-|----------|----------|
-| Total Problems Solved | Updating... |
-| Easy | Updating... |
-| Medium | Updating... |
-| Hard | Updating... |
-| Daily Challenges | Updating... |
-| Contest Problems | Updating... |
 
 ---
 
@@ -207,7 +212,7 @@ Planned additions include:
 - Visual explanations for Graph and DP problems.
 - Frequently Asked Interview Questions.
 - Revision Sheets for important topics.
-- Automated statistics for solved problems.
+- Contest rating history in the stats section.
 
 ---
 
@@ -241,17 +246,15 @@ Steps to contribute:
 
 ## Connect With Me
 
-> Add your profile links below.
-
-- GitHub : https://github.com/bittu9975
-- LeetCode : https://leetcode.com/u/<YOUR_USERNAME>/
-- LinkedIn : https://www.linkedin.com/in/<YOUR_PROFILE>/
+- GitHub: [github.com/bittu9975](https://github.com/bittu9975)
+- LeetCode: [leetcode.com/u/BiTTu__07](https://leetcode.com/u/BiTTu__07/)
+- LinkedIn: [linkedin.com/in/durgeshdhurve](https://www.linkedin.com/in/durgeshdhurve/)
 
 ---
 
-## License
+## Purpose & Usage
 
-This repository is maintained for educational and interview preparation purposes.
+This repository is maintained for educational and interview preparation purposes. If you'd like others to freely reuse the code (e.g., under the MIT License), add a `LICENSE` file to the repository root — GitHub can generate one for you via the "Add file" button on the repo page.
 
 ---
 
