@@ -1,0 +1,10 @@
+{
+  "title": "Maximum Product of Two Digits",
+  "problemNumber": 3536,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-25",
+  "timeComplexity": "O(log n)",
+  "spaceComplexity": "O(1)",
+  "tags": ["Math", "Sorting"]
+}
