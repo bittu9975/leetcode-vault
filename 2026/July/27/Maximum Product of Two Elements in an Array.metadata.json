@@ -1,0 +1,10 @@
+{
+  "title": "Maximum Product of Two Elements in an Array",
+  "problemNumber": 1464,
+  "difficulty": "EASY",
+  "language": "Java",
+  "date": "2026-07-27",
+  "timeComplexity": "O(n)",
+  "spaceComplexity": "O(1)",
+  "tags": ["Sorting", "Array", "Heap (Priority Queue)"]
+}
