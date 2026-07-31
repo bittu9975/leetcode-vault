@@ -1,0 +1,10 @@
+{
+  "title": "Minimum Number of Pushes to Type Word II",
+  "problemNumber": 3016,
+  "difficulty": "MEDIUM",
+  "language": "Java",
+  "date": "2026-08-01",
+  "timeComplexity": "O(n log n)",
+  "spaceComplexity": "O(n)",
+  "tags": ["Counting", "Greedy", "String", "Sorting", "Hash Table"]
+}
