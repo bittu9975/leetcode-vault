@@ -1,0 +1,10 @@
+{
+  "title": "Predict the Winner",
+  "problemNumber": 486,
+  "difficulty": "MEDIUM",
+  "language": "Java",
+  "date": "2026-08-01",
+  "timeComplexity": "O(n^2)",
+  "spaceComplexity": "O(n^2)",
+  "tags": ["Dynamic Programming", "Game Theory", "Recursion", "Array", "Math"]
+}
