@@ -1,0 +1,10 @@
+{
+  "title": "Stone Game V",
+  "problemNumber": 1563,
+  "difficulty": "HARD",
+  "language": "Java",
+  "date": "2026-08-17",
+  "timeComplexity": "O(n^2)",
+  "spaceComplexity": "O(n^2)",
+  "tags": ["Dynamic Programming", "Array", "Game Theory", "Math"]
+}
