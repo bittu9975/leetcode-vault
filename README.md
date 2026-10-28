@@ -48,14 +48,14 @@ The goal isn't simply to solve problems—it's to understand the underlying patt
 
 | Category | Solved | Total |
 |----------|-------:|------:|
-| Total | 327 | 4095 |
+| Total | 327 | 4096 |
 | Easy | 149 | 974 |
-| Medium | 148 | 2135 |
+| Medium | 148 | 2136 |
 | Hard | 30 | 986 |
 
-**Global Ranking:** 454,600
+**Global Ranking:** 454,863
 
-_Last updated: 2026-10-27 03:09 UTC_
+_Last updated: 2026-10-28 03:22 UTC_
 
 <!--END_SECTION:leetcode_stats-->
 
