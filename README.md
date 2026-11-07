@@ -53,9 +53,9 @@ The goal isn't simply to solve problems—it's to understand the underlying patt
 | Medium | 148 | 2139 |
 | Hard | 30 | 987 |
 
-**Global Ranking:** 457,019
+**Global Ranking:** 457,211
 
-_Last updated: 2026-11-06 04:30 UTC_
+_Last updated: 2026-11-07 03:57 UTC_
 
 <!--END_SECTION:leetcode_stats-->
 
